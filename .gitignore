@@ -1,0 +1,7 @@
+#NODE MODULES
+node_modules
+
+#CYPRESS ASSETS AND RESULTS
+cypress/downloads
+cypress/screenshots
+cypress/videos

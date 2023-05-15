@@ -1,0 +1,16 @@
+{
+  "name": "gaston_garcia_paramo_technologies_challenge",
+  "version": "1.0.0",
+  "description": "Automation challenge",
+  "main": "index.js",
+  "scripts": {
+    "test:ide": "cypress open",
+    "test:headless": "cypress run --browser chrome"
+  },
+  "author": "Gastón García Álvarez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "prettier": "^2.8.8"
+  }
+}
