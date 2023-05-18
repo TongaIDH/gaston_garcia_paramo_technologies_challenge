@@ -1,7 +1,12 @@
-#NODE MODULES
+# Node
 node_modules
 
-#CYPRESS ASSETS AND RESULTS
+# Test Execution Results
 cypress/downloads
 cypress/screenshots
 cypress/videos
+cypress/results
+
+# Reports
+mochawesome.json
+mochawesome-report/
