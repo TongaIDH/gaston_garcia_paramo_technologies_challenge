@@ -1,0 +1,12 @@
+# Node
+node_modules
+
+# Test Execution Results
+cypress/downloads
+cypress/screenshots
+cypress/videos
+cypress/results
+
+# Reports
+mochawesome.json
+mochawesome-report/
